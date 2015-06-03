@@ -1,5 +1,6 @@
 
 package vista;
+package uml.*;
 import java.util.ArrayList;
 import javax.swing.table.DefaultTableModel;
 
